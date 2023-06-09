@@ -24,6 +24,7 @@ function resetHandler(){
           </div>
       <button onClick={increaseHandler}  className="text-center border-l-2 w-20 border-[#bfbfbf] text-5xl">
         +</button>
+        <h1>hello jee</h1>
       </div>
       <button onClick={resetHandler} className="bg-[#0398d4] px-5 py-2 text-white rounded-sm text-lg">
         Reset
